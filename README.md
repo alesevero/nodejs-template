@@ -13,9 +13,6 @@ A template for creating REST microservices using Node.js
 ## General Info
 **_Disclaimer: this is a work in progress._**
 
-This application was developed as part of the Omnistack Week, held by Rocketseat. It aims to help non-governamental entities to solve the financial obstacles they might face.
-
-
 The template have been implemented using [Express](https://expressjs.com), which is a fast, minimalist web framework for Node.js, alongside [Knex](https://knexjs.org) to handle database migrations.
 
 Unit tests and integration tests were implemented using [Jest](https://jestjs.io) and supertest
