@@ -4,16 +4,12 @@ A template for creating REST microservices using Node.js
 
 ## Table of Contents
 * [General info](#general-info)
-* [App Stack](#app-stack)
-  * [Backend](#backend)
-  * [Frontend](#frontend)
-  * [Mobile App](#mobile-app)
 * [Setting it Up](#setting-it-up)
 
 ## General Info
 **_Disclaimer: this is a work in progress._**
 
-The template have been implemented using [Express](https://expressjs.com), which is a fast, minimalist web framework for Node.js, alongside [Knex](https://knexjs.org) to handle database migrations.
+The template have been implemented using [Express](https://expressjs.com), which is a fast, minimalist web framework for Node.js, alongside [Knex](https://knexjs.org) to handle database migrations. Request validation is done using [Celebrate](https://github.com/arb/celebrate).
 
 Unit tests and integration tests were implemented using [Jest](https://jestjs.io) and supertest
 
